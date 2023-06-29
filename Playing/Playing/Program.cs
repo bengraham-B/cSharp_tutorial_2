@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Playing_around
+namespace Playing
 {
     class Program
     {
