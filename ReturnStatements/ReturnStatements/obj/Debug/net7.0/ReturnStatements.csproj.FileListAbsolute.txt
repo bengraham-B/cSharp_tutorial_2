@@ -1,0 +1,15 @@
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\bin\Debug\net7.0\ReturnStatements.exe
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\bin\Debug\net7.0\ReturnStatements.deps.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\bin\Debug\net7.0\ReturnStatements.runtimeconfig.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\bin\Debug\net7.0\ReturnStatements.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\bin\Debug\net7.0\ReturnStatements.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\obj\Debug\net7.0\ReturnStatements.csproj.AssemblyReference.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\obj\Debug\net7.0\ReturnStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\obj\Debug\net7.0\ReturnStatements.AssemblyInfoInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\obj\Debug\net7.0\ReturnStatements.AssemblyInfo.cs
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\obj\Debug\net7.0\ReturnStatements.csproj.CoreCompileInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\obj\Debug\net7.0\ReturnStatements.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\obj\Debug\net7.0\refint\ReturnStatements.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\obj\Debug\net7.0\ReturnStatements.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\obj\Debug\net7.0\ReturnStatements.genruntimeconfig.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ReturnStatements\ReturnStatements\obj\Debug\net7.0\ref\ReturnStatements.dll
