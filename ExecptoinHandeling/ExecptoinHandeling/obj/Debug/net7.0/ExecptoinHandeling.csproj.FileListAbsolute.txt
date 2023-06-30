@@ -1,0 +1,15 @@
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\bin\Debug\net7.0\ExecptoinHandeling.exe
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\bin\Debug\net7.0\ExecptoinHandeling.deps.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\bin\Debug\net7.0\ExecptoinHandeling.runtimeconfig.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\bin\Debug\net7.0\ExecptoinHandeling.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\bin\Debug\net7.0\ExecptoinHandeling.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\obj\Debug\net7.0\ExecptoinHandeling.csproj.AssemblyReference.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\obj\Debug\net7.0\ExecptoinHandeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\obj\Debug\net7.0\ExecptoinHandeling.AssemblyInfoInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\obj\Debug\net7.0\ExecptoinHandeling.AssemblyInfo.cs
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\obj\Debug\net7.0\ExecptoinHandeling.csproj.CoreCompileInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\obj\Debug\net7.0\ExecptoinHandeling.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\obj\Debug\net7.0\refint\ExecptoinHandeling.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\obj\Debug\net7.0\ExecptoinHandeling.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\obj\Debug\net7.0\ExecptoinHandeling.genruntimeconfig.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExecptoinHandeling\ExecptoinHandeling\obj\Debug\net7.0\ref\ExecptoinHandeling.dll
