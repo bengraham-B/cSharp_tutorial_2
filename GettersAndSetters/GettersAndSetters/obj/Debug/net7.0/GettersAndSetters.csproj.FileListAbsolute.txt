@@ -1,0 +1,15 @@
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\bin\Debug\net7.0\GettersAndSetters.exe
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\bin\Debug\net7.0\GettersAndSetters.deps.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\bin\Debug\net7.0\GettersAndSetters.runtimeconfig.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\bin\Debug\net7.0\GettersAndSetters.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\bin\Debug\net7.0\GettersAndSetters.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\obj\Debug\net7.0\GettersAndSetters.csproj.AssemblyReference.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\obj\Debug\net7.0\GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\obj\Debug\net7.0\GettersAndSetters.AssemblyInfoInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\obj\Debug\net7.0\GettersAndSetters.AssemblyInfo.cs
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\obj\Debug\net7.0\GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\obj\Debug\net7.0\GettersAndSetters.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\obj\Debug\net7.0\refint\GettersAndSetters.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\obj\Debug\net7.0\GettersAndSetters.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\obj\Debug\net7.0\GettersAndSetters.genruntimeconfig.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\GettersAndSetters\GettersAndSetters\obj\Debug\net7.0\ref\GettersAndSetters.dll
