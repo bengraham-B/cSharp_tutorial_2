@@ -1,0 +1,15 @@
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\bin\Debug\net7.0\ExponentMethod.exe
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\bin\Debug\net7.0\ExponentMethod.deps.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\bin\Debug\net7.0\ExponentMethod.runtimeconfig.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\bin\Debug\net7.0\ExponentMethod.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\bin\Debug\net7.0\ExponentMethod.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\obj\Debug\net7.0\ExponentMethod.csproj.AssemblyReference.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\obj\Debug\net7.0\ExponentMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\obj\Debug\net7.0\ExponentMethod.AssemblyInfoInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\obj\Debug\net7.0\ExponentMethod.AssemblyInfo.cs
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\obj\Debug\net7.0\ExponentMethod.csproj.CoreCompileInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\obj\Debug\net7.0\ExponentMethod.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\obj\Debug\net7.0\refint\ExponentMethod.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\obj\Debug\net7.0\ExponentMethod.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\obj\Debug\net7.0\ExponentMethod.genruntimeconfig.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ExponentMethod\ExponentMethod\obj\Debug\net7.0\ref\ExponentMethod.dll
