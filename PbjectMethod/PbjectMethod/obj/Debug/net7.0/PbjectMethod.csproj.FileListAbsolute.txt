@@ -1,0 +1,15 @@
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\bin\Debug\net7.0\PbjectMethod.exe
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\bin\Debug\net7.0\PbjectMethod.deps.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\bin\Debug\net7.0\PbjectMethod.runtimeconfig.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\bin\Debug\net7.0\PbjectMethod.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\bin\Debug\net7.0\PbjectMethod.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\obj\Debug\net7.0\PbjectMethod.csproj.AssemblyReference.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\obj\Debug\net7.0\PbjectMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\obj\Debug\net7.0\PbjectMethod.AssemblyInfoInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\obj\Debug\net7.0\PbjectMethod.AssemblyInfo.cs
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\obj\Debug\net7.0\PbjectMethod.csproj.CoreCompileInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\obj\Debug\net7.0\PbjectMethod.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\obj\Debug\net7.0\refint\PbjectMethod.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\obj\Debug\net7.0\PbjectMethod.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\obj\Debug\net7.0\PbjectMethod.genruntimeconfig.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\PbjectMethod\PbjectMethod\obj\Debug\net7.0\ref\PbjectMethod.dll

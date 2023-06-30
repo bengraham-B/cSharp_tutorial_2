@@ -1,7 +1,12 @@
 ﻿namespace PbjectMethod {
     internal class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Hello, World!");
+            Student student1 = new Student("Jim", "Business", 2.8);
+            Student student2 = new Student("Pam", "Art", 3.6);
+
+            Console.WriteLine(student1.hasHonors());
+            Console.WriteLine(student2.hasHonors());
+
         }
     }
 }
