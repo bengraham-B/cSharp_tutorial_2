@@ -1,0 +1,15 @@
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\bin\Debug\net7.0\ClassesAndObjects.exe
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\bin\Debug\net7.0\ClassesAndObjects.deps.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\bin\Debug\net7.0\ClassesAndObjects.runtimeconfig.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\bin\Debug\net7.0\ClassesAndObjects.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\bin\Debug\net7.0\ClassesAndObjects.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\obj\Debug\net7.0\ClassesAndObjects.csproj.AssemblyReference.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\obj\Debug\net7.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\obj\Debug\net7.0\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\obj\Debug\net7.0\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\obj\Debug\net7.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\obj\Debug\net7.0\ClassesAndObjects.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\obj\Debug\net7.0\refint\ClassesAndObjects.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\obj\Debug\net7.0\ClassesAndObjects.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\obj\Debug\net7.0\ClassesAndObjects.genruntimeconfig.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\ClassesAndObjects\ClassesAndObjects\obj\Debug\net7.0\ref\ClassesAndObjects.dll
