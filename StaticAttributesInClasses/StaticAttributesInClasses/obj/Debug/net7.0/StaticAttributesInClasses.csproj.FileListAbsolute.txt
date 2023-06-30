@@ -1,0 +1,15 @@
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\bin\Debug\net7.0\StaticAttributesInClasses.exe
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\bin\Debug\net7.0\StaticAttributesInClasses.deps.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\bin\Debug\net7.0\StaticAttributesInClasses.runtimeconfig.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\bin\Debug\net7.0\StaticAttributesInClasses.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\bin\Debug\net7.0\StaticAttributesInClasses.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\obj\Debug\net7.0\StaticAttributesInClasses.csproj.AssemblyReference.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\obj\Debug\net7.0\StaticAttributesInClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\obj\Debug\net7.0\StaticAttributesInClasses.AssemblyInfoInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\obj\Debug\net7.0\StaticAttributesInClasses.AssemblyInfo.cs
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\obj\Debug\net7.0\StaticAttributesInClasses.csproj.CoreCompileInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\obj\Debug\net7.0\StaticAttributesInClasses.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\obj\Debug\net7.0\refint\StaticAttributesInClasses.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\obj\Debug\net7.0\StaticAttributesInClasses.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\obj\Debug\net7.0\StaticAttributesInClasses.genruntimeconfig.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticAttributesInClasses\StaticAttributesInClasses\obj\Debug\net7.0\ref\StaticAttributesInClasses.dll

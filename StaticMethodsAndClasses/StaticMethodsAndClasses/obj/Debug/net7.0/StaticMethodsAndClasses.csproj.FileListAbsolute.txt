@@ -1,0 +1,15 @@
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\net7.0\StaticMethodsAndClasses.exe
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\net7.0\StaticMethodsAndClasses.deps.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\net7.0\StaticMethodsAndClasses.runtimeconfig.json
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\net7.0\StaticMethodsAndClasses.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\net7.0\StaticMethodsAndClasses.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net7.0\StaticMethodsAndClasses.csproj.AssemblyReference.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net7.0\StaticMethodsAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net7.0\StaticMethodsAndClasses.AssemblyInfoInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net7.0\StaticMethodsAndClasses.AssemblyInfo.cs
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net7.0\StaticMethodsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net7.0\StaticMethodsAndClasses.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net7.0\refint\StaticMethodsAndClasses.dll
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net7.0\StaticMethodsAndClasses.pdb
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net7.0\StaticMethodsAndClasses.genruntimeconfig.cache
+C:\Users\aegraham\Music\C#\cSharp_tutorial_2\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net7.0\ref\StaticMethodsAndClasses.dll
